@@ -1,2 +1,2 @@
-# oop_python_example
-Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. In this tutorial, you’ll learn the basics of object-oriented programming in Python.
+# Banking system : an example of object-oriented programming
+A minimal application for understanding the concept of oops in python using the example of a telegram bot written using the telebot library.
